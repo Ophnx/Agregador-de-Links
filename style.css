@@ -191,9 +191,10 @@ footer {
   }
 }
 @keyframes slide-right {
-  from{
+  from {
     left: 50%;
-}
-to {
-  left: 0;
+  }
+  to {
+    left: 0;
+  }
 }
